@@ -20,7 +20,8 @@ I am an aspiring MERN Stack developer!
 
 ### 🧠 Also Worked With
 ![C](https://img.shields.io/badge/C-808080?logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-808080?logo=C++&logoColor=gray)
+![C++](https://img.shields.io/badge/C%2B%2B-808080?logo=C%2B%2B&logoColor=white)
+
 
 ### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
