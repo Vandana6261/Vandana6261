@@ -37,6 +37,17 @@ Focused on understanding backend basics and server-side logic.
 
 **🔗 Repo: https://github.com/Vandana6261/file-management-system-react**
 
+## Github Status
+
+## 🔥 GitHub Stats
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vandana6261&theme=tokyonight&border=0)
+
+
+![Top Languages](https://kasroudra-stats-card.onrender.com/lang?user=Vandana6261&layout=donut&theme=tokyonight&border=0)
+
+
 ## 🎯 Current Focus
 - Strengthening Node.js fundamentals
 - Understanding Express routing & middleware
