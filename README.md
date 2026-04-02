@@ -44,8 +44,7 @@ Focused on understanding backend basics and server-side logic.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vandana6261&theme=tokyonight&border=0)
 
-
-![Top Languages](https://kasroudra-stats-card.onrender.com/lang?user=Vandana6261&layout=donut&theme=tokyonight&border=0)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vandana6261&theme=tokyonight&hide_border=true)
 
 
 ## 🎯 Current Focus
