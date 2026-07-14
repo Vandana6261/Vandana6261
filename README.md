@@ -12,9 +12,14 @@ I am an aspiring MERN Stack developer!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-808080?logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-808080?logo=mongodb&logoColor=white)
-### 🌱 Currently Learning
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-123434?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+### 🌱 Currently Learning
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
 ### 🧠 Also Worked With
 ![C](https://img.shields.io/badge/C-808080?logo=C&logoColor=white)
