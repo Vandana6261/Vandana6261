@@ -51,8 +51,7 @@ Focused on understanding backend basics and server-side logic.
 
 
 ## 🎯 Current Focus
-- Strengthening Node.js fundamentals
-- Understanding Express routing & middleware
-- Preparing to move into React
+-  🚀 Building a full-stack project with the MERN stack
+-  ✨ Writing cleaner, more maintainable code
 
  💬 **Always open to learning, collaboration, and feedback.**
