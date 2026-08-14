@@ -20,6 +20,8 @@ I am an aspiring MERN Stack developer!
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+
 
 ### 🧠 Also Worked With
 ![C](https://img.shields.io/badge/C-808080?logo=C&logoColor=white)
